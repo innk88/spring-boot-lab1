@@ -21,3 +21,19 @@ https://stepik.org/lesson/212372/step/1?unit=185591
 - Каждая функция отрабатывает корректно.
 
 Лабораторная оценивается в 10 баллов.
+
+## Для запуска
+
+Необходимо:
+
+- [JDK20](https://www.oracle.com/in/java/technologies/downloads/)
+
+- [Intellij IDEA](https://www.jetbrains.com/idea/download/?section=mac)
+
+Настроить Project Structure на JDK20
+
+И выбрать в Run - com.example.task1.Task1Application
+
+
+
+
